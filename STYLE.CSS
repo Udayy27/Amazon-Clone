@@ -177,7 +177,7 @@ body{
 
 /* background section  */
 .background-section {
-  background-image: url('Images/image_1.jpg');
+  background-image: url('/image_1.jpg');
   background-size: cover;
   height: 350px;
   display: flex;
